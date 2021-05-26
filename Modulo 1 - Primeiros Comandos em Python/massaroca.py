@@ -20,7 +20,7 @@ idade = input('Qual sua idade?')
 peso = input('Qual o seu peso?')
 
 print('------------------------------------')
-print('Seu nome é', nome
+print('Seu nome é', nome)
 print('Sua idade é', idade)
 print('Seu peso é', peso)
 print('------------------------------------')
